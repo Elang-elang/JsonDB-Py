@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "JsonDB-py"
+version = "0.2.1"
+authors = [
+    { name="Elang Muhammad", email="elangmuhammad888@gmail.com" },
+]
+description = "A simple, lightweight, and file-based JSON database library for Python."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Database",
+    "Intended Audience :: Developers",
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+keywords = ["json", "database", "file-based", "nosql", "db"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Elang-elang/"
+Repository = "https://github.com/Elang-elang/JsonDB"
+Issues = "https://github.com/Elang-elang/JsonDB/issues"
+
+# Console scripts configuration
+[project.scripts]
+jsondb-py = "jsondb.cli:main"
+json-py = "jsondb.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["jsondb*"]
+
+[tool.setuptools.package-data]
+jsondb = ["*.py"]
