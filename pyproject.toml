@@ -30,8 +30,8 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/Elang-elang/"
-Repository = "https://github.com/Elang-elang/JsonDB"
-Issues = "https://github.com/Elang-elang/JsonDB/issues"
+Repository = "https://github.com/Elang-elang/JsonDB-Py"
+Issues = "https://github.com/Elang-elang/JsonDB-Py/issues"
 
 # Console scripts configuration
 [project.scripts]
