@@ -1,15 +1,15 @@
-# JsonDB-py
+# JsonDB-Py
 
 A simple, lightweight, and file-based JSON database library for Python, now with proper error handling and a modular structure.
 
 ## Overview
 
-`py-jsondb` provides a simple interface for storing and retrieving data in a JSON file. It's perfect for small projects where a full-fledged database is overkill.
+`Json-Py` provides a simple interface for storing and retrieving data in a JSON file. It's perfect for small projects where a full-fledged database is overkill.
 
 ## Installation
 
 ```bash
-pip install JsonDB-py
+pip install jsondb-py
 ```
 
 ## Quick Start
