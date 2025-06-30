@@ -1,4 +1,4 @@
-# py-jsondb
+# JsonDB-py
 
 A simple, lightweight, and file-based JSON database library for Python, now with proper error handling and a modular structure.
 
