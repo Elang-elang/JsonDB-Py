@@ -10,7 +10,7 @@ def main():
     """Main entry point for command line interface"""
     try:
         # Pass command line arguments to the repl module
-        sys.argv[0] = 'jsondb-py'  # Set the program name
+        sys.argv[0] = 'jsondb'  # Set the program name
         repl.main()  # Assuming your Repl.py has a main() function
     except KeyboardInterrupt:
         print("\nInterrupted by user", file=sys.stderr)
