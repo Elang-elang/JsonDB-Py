@@ -23,4 +23,4 @@ jobs:
       - name: Publish package to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
-          password: 'pypi-AgEIcHlwaS5vcmcCJDIwY2Y2NzE0LWE2NWEtNGViMS05MzU5LTc5YjhiNTViZDU1OQACKlszLCI0ZGJlMjQ3MC1iMWI2LTQ4YzUtYjA2MS00YzU2NGU0ZGE5YTAiXQAABiDicr9zFXhMP5tdwMpwMcM6_aqChzMBq_ylzANqGuKsqQ'
+          password: ${{ secrets.PYPI_API_TOKEN }}
