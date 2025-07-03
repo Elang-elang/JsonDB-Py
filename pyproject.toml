@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "JsonDB-py"
-version = "0.2.1"
+name = "jsondb-python"
+version = "1.0.5"
 authors = [
     { name="Elang Muhammad", email="elangmuhammad888@gmail.com" },
 ]
@@ -30,13 +30,12 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/Elang-elang/"
-Repository = "https://github.com/Elang-elang/JsonDB-Py"
-Issues = "https://github.com/Elang-elang/JsonDB-Py/issues"
+Repository = "https://github.com/Elang-elang/JsonDB"
+Issues = "https://github.com/Elang-elang/JsonDB/issues"
 
 # Console scripts configuration
 [project.scripts]
-jsondb-py = "jsondb.cli:main"
-json-py = "jsondb.cli:main"
+jsondb = "jsondb.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
