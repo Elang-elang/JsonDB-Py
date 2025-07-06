@@ -10,7 +10,6 @@
   <a href="https://pypi.org/project/jsondb-python">
     <img src="https://img.shields.io/pypi/v/jsondb-python.svg?label=PyPI" alt="PyPI Version">
   </a>
-a
   <a href="https://github.com/Elang-elang/JsonDB-Python/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-purple.svg" alt="License">
   </a>
@@ -127,4 +126,4 @@ $ jsondb
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Elang-elang/JsonDB-Python/blob/main/LICENSE) file for details.
