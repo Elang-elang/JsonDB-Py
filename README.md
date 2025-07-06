@@ -1,3 +1,24 @@
+<p align="center">
+  <a href="https://pypi.org/project/jsondb-python">
+    <img src="https://github.com/Elang-elang/JsonDB/blob/main/icons/icon1.png?raw=true" alt="JsonDB Logo" width="150">
+  </a>
+</p>
+
+<h1 align="center">JsonDB-Python</h1>
+
+<p align="center">
+  <a href="https://pypi.org/project/jsondb-python">
+    <img src="https://img.shields.io/pypi/v/jsondb-python.svg?label=PyPI" alt="PyPI Version">
+  </a>
+a
+  <a href="https://github.com/Elang-elang/JsonDB-Python/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-purple.svg" alt="License">
+  </a>
+  <a href="https://jsondb-docs.netlify.app">
+    <img src="https://img.shields.io/badge/Documentation-passing-brightgreen" alt="Documentation">
+  </a>
+</p>
+
 # jsondb-python
 
 A simple, lightweight, and file-based JSON database library for Python, now with proper error handling, a modular structure, and a powerful interactive REPL.
