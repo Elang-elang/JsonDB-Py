@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pypi.org/project/jsondb-python">
-    <img src="https://github.com/Elang-elang/JsonDB/blob/main/icons/icon1.png?raw=true" alt="JsonDB Logo" width="150">
+    <img src="https://github.com/Elang-elang/JsonDB/blob/main/icons/icon1.png?raw=true" alt="JsonDB Logo">
   </a>
 </p>
 
@@ -18,8 +18,6 @@ a
     <img src="https://img.shields.io/badge/Documentation-passing-brightgreen" alt="Documentation">
   </a>
 </p>
-
-# jsondb-python
 
 A simple, lightweight, and file-based JSON database library for Python, now with proper error handling, a modular structure, and a powerful interactive REPL.
 
