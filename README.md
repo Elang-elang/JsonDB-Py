@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pypi.org/project/jsondb-python">
-    <img src="https://github.com/Elang-elang/JsonDB/blob/main/icons/icon2.png?raw=true" alt="JsonDB Logo">
+    <img src="https://raw.githubusercontent.com/Elang-elang/JsonDB/refs/heads/main/icons/icon2.png?token=GHSAT0AAAAAADGRQCSXNYSVVQWA6VZJUYB42DMFE2A" alt="JsonDB Logo">
   </a>
 </p>
 
